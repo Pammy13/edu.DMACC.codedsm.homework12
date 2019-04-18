@@ -2,49 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d39458-e553-46ba-9232-caddd4a5d87a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/Homework14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/DogGroomingShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/FullPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/DogGroomingShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/FullPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/PersonAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/QuickPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework15/src/edu/dmacc/codedsm/Homework15/HW15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab100328/Bakery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab100328/DonutShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab100328/Lab10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab100328/MailOrderCakes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab100328/PizzaParlor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab100328/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab11/src/edu/dmacc/codedsm/lab11/Lab11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/edu.dmacc.codedsm.HW14#2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/src/HW142question/CashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/src/HW142question/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../truck/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../truck/src/truck/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../truck/src/truck/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../truck/src/truck/truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework12/src/Blackjack.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework16/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework16/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework16/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework16/Homework16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework16/src/dmacc/codedsm/eduHW16/Homework16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab100328/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab 11/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab 11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab 11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab 11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab 11/lab 11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab 11/src/dmacc/codedsm/edu/lab11/lab11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework15/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework4" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeworkBAD14" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeworkBAD14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasker/Tasker" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/Tasker" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +34,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab100328/Lab10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="68">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab100328/Equipment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -68,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/src/lab100328/Bakery.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -127,14 +115,16 @@
         <option value="$PROJECT_DIR$/src/lab100328/Lab10.java" />
         <option value="$PROJECT_DIR$/src/lab100328/DonutShop.java" />
         <option value="$PROJECT_DIR$/src/lab100328/Runner.java" />
+        <option value="$PROJECT_DIR$/src/Equipment.java" />
+        <option value="$PROJECT_DIR$/src/lab100328/Equipment.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="13" />
+    <option name="x" value="12" />
     <option name="y" value="15" />
-    <option name="width" value="1757" />
-    <option name="height" value="950" />
+    <option name="width" value="1758" />
+    <option name="height" value="951" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,15 +155,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554430918541" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554915687049" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tasker" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -206,17 +196,17 @@
       <workItem from="1554054422801" duration="1836000" />
       <workItem from="1554166271516" duration="2270000" />
       <workItem from="1554422499100" duration="2431000" />
+      <workItem from="1554769294567" duration="2280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17200000" />
+    <option name="totallyTimeSpent" value="19480000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="10" width="1171" height="633" extended-state="0" />
-    <editor active="true" />
+    <frame x="8" y="10" width="1172" height="634" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26822683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2733813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -260,6 +250,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab100328/Bakery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab100328/PizzaParlor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab100328/MailOrderCakes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -274,24 +278,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab100328/Bakery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab100328/PizzaParlor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab100328/Lab10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab100328/Equipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
