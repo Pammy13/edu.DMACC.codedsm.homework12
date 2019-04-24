@@ -11,12 +11,12 @@ public class Runner{
     public static void main( String[] args ) {
 
         Function<String, Integer> books = s -> s.length();
-        BiFunction<Integer, Integer, Integer> movies = ( x, y) -> x + y;
-        Consumer<String> cassettes =  x -> {System.out.println(x);};
+        BiFunction<String, String, Integer> movies = ( x, y) -> x.length() + y.length();
+        Consumer<String> cassettes =  x -> System.out.println(x);
         Supplier<String> records = () -> "Hello";
 
-        System.out.println(books.apply( "jjj"));
-        System.out.println(movies.apply( 3, 5 ));
+        System.out.println(books.apply( "Ryla"));
+        System.out.println(movies.apply(  "Hellfighters", "Ghost"));
         cassettes.accept("Teagan");
         System.out.println(records.get());
 }
