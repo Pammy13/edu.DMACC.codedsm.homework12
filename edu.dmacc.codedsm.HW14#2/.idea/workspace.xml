@@ -2,49 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d1e1dc-6cc4-4535-a949-bb91dabc5cf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/Homework14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/DogGroomingShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/FullPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/PersonAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/QuickPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14/src/edu/dmacc/code/dsm/Homework14/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/DogGroomingShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/FullPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/PersonAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/QuickPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework14twice/src/edu/dmacc/codedsm/Homework14twice/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework15/src/edu/dmacc/codedsm/Homework15/HW15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab10/src/lab100328/Bakery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab10/src/lab100328/DonutShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab10/src/lab100328/Lab10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab10/src/lab100328/MailOrderCakes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab10/src/lab100328/PizzaParlor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab10/src/lab100328/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab11/src/edu/dmacc/codedsm/lab11/Lab11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edu.dmacc.codedsm.HW14#2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW142question/CashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW142question/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../truck/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../truck/src/truck/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../truck/src/truck/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../truck/src/truck/truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework12/src/Blackjack.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Gummies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Opener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/OpenerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/YummyStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-project/sample-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleapp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleapp/sampleapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleapp/src/main/java/edu/dmacc/codedsm/app/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleproject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleproject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleproject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampleproject/sampleproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework20/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework20/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework20/src/HigherFunctionHW20.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework20/src/HigherFunctionHW20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework4" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeworkBAD14" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeworkBAD14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasker/Tasker" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/Tasker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasker/out/production/Tasker/edu/dmacc/codedsm/tasker/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/out/production/Tasker/edu/dmacc/codedsm/tasker/Runner.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,8 +89,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
-    <option name="y" value="16" />
+    <option name="x" value="87" />
+    <option name="y" value="15" />
     <option name="width" value="1752" />
     <option name="height" value="948" />
   </component>
@@ -106,7 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +112,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,17 +171,18 @@
       <workItem from="1554054396513" duration="1217000" />
       <workItem from="1554312738654" duration="161000" />
       <workItem from="1554416397738" duration="1851000" />
+      <workItem from="1556671754530" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6592000" />
+    <option name="totallyTimeSpent" value="6596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="11" width="1168" height="632" extended-state="0" />
+    <frame x="58" y="10" width="1168" height="632" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24458484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24909747" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
