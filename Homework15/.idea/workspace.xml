@@ -2,40 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43d5ecb2-0de3-4548-87f6-3a4b5334936f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Gummies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Holiday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Opener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/OpenerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/YummyStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample-project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample-project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample-project/sample-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleapp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleapp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleapp/sampleapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleapp/src/main/java/edu/dmacc/codedsm/app/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleproject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleproject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleproject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleproject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sampleproject/sampleproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Holiday.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Holiday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExtraCreditOOP/src/edu/dmacc/codedsm/ExtraCreditOOP/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework14/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework20/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework20/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework20/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework20/src/HigherFunctionHW20.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework20/src/HigherFunctionHW20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework4" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeworkBAD14" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeworkBAD14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.HW14#2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tasker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tasker/Tasker" beforeDir="false" afterPath="$PROJECT_DIR$/../tasker/Tasker" afterDir="false" />
@@ -50,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/Homework15/HW15.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -78,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -107,8 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,6 +111,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,16 +149,18 @@
       <workItem from="1554482475436" duration="1315000" />
       <workItem from="1555010860120" duration="1682000" />
       <workItem from="1556671807051" duration="6000" />
+      <workItem from="1556747576793" duration="236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3712000" />
+    <option name="totallyTimeSpent" value="3948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="86" y="34" width="1172" height="634" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18615107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1897482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
